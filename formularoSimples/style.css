@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(210, 235, 235);
+}
+h1 {
+    color: #ee0e0e;
+}
+h3 {
+    color: blueviolet;
+}
+label{
+    color: blueviolet;
+}
+input {
+    color: blueviolet;
+}
+form {
+    color: blueviolet;
+}
+textarea {
+    color: aqua;
+}
+audio {
+    width: 100%;
+    height: 300px;
+}

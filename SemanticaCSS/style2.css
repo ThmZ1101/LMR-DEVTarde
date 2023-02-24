@@ -1,0 +1,12 @@
+img {
+    height: 100px;
+    width: 100px;
+} 
+
+body{
+    background: rgb(15,1,255);
+background: linear-gradient(90deg, rgba(15,1,255,1) 0%, rgba(212,31,177,1) 23%, rgba(224,0,0,1) 60%, rgba(255,222,0,1) 97%);
+}
+input{
+    color: black;
+}
