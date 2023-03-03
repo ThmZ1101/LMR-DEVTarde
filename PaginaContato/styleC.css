@@ -14,7 +14,10 @@ background: radial-gradient(circle, rgba(0,212,255,1) 0%, rgba(9,9,121,0.6390931
 }
 .botao-enviar {
     background-color: #45a1df; /* Cor de fundo do botão */
-    border: none; /* Remover borda */
+    
+    background: rgb(0,212,255);
+    background: radial-gradient(circle, rgba(0,212,255,1) 0%, rgba(9,9,121,0.639093137254902) 100%);
+    border: 2px solid #000000; /* Remover borda none */
     color: white; /* Cor do texto */
     padding: 12px 24px; /* Espaçamento interno (vertical/horizontal) */
     text-align: center; /* Alinhar texto ao centro */
@@ -50,8 +53,14 @@ background: radial-gradient(circle, rgba(0,212,255,1) 0%, rgba(9,9,121,0.6390931
     resize: vertical; /* Permitir redimensionamento vertical */
 
   }
+  .t1 {
+    border-radius: 10px; /* Borda arredondada */
+    padding: 10px; /* Espaçamento interno */
+    border: 2px solid #000000;
+    background: rgb(0,212,255);
+    background: radial-gradient(circle, rgba(0,212,255,1) 0%, rgba(9,9,121,0.639093137254902) 100%);
+}
   
-dsa
   
 
 

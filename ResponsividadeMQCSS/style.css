@@ -1,0 +1,23 @@
+
+.banner{
+    width: 90%;
+    height: 600px;
+    padding: 60px; /* borda interna, espaço */
+    margin: 0 auto;
+    display: table;
+    box-shadow: -1px -2px 5px 13px rgba(230,225,225,0.75);
+}
+.banner img{
+    width: 700px;
+    height: 700px;
+    float: right;
+}
+.banner .texto{
+    margin-top: 50px;
+    width: 50%;
+    font-size: 22px;
+}
+body{
+    background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 100%);
+}
