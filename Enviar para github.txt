@@ -1,1 +1,1 @@
-git add . // git commit -m "ThmZ" // git pus
+git add . // git commit -m "ThmZ" // git push

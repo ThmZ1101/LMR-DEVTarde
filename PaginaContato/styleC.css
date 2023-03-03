@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+}
+form input, form textarea{
+    background: rgb(0,212,255);
+background: radial-gradient(circle, rgba(0,212,255,1) 0%, rgba(9,9,121,0.639093137254902) 100%);
+}
+::-webkit-input-placeholder{
+    color: rgb(255, 255, 255);
+}
+.botao-enviar {
+    background-color: #45a1df; /* Cor de fundo do botão */
+    border: none; /* Remover borda */
+    color: white; /* Cor do texto */
+    padding: 12px 24px; /* Espaçamento interno (vertical/horizontal) */
+    text-align: center; /* Alinhar texto ao centro */
+    text-decoration: none; /* Remover sublinhado */
+    display: inline-block; /* Mostrar como bloco */
+    font-size: 16px; /* Tamanho da fonte */
+    margin: 10px 0; /* Margem superior/inferior */
+    cursor: pointer; /* Cursor em forma de mão ao passar o mouse */
+    border-radius: 10px; /* Adicionar borda arredondada */
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2); /* Adicionar sombra */
+  }
+  
+  /* Estilo do botão ao passar o mouse */
+  .botao-enviar:hover {
+    background-color: #534ac9;
+  }
+  textarea {
+    width: 75%; /* Largura total */
+    padding: 12px; /* Espaçamento interno */
+    border: 0px solid #ccc; /* Borda */
+    border-radius: 4px; /* Borda arredondada */
+    box-sizing: border-box; /* Tamanho da caixa incluindo borda e preenchimento */
+    font-size: 16px; /* Tamanho da fonte */
+    resize: vertical; /* Permitir redimensionamento vertical */
+  }
+  input{
+    width: 70%; /* Largura total */
+    padding: 12px; /* Espaçamento interno */
+    border: 0px solid #ccc; /* Borda */
+    border-radius: 4px; /* Borda arredondada */
+    box-sizing: border-box; /* Tamanho da caixa incluindo borda e preenchimento */
+    font-size: 16px; /* Tamanho da fonte */
+    resize: vertical; /* Permitir redimensionamento vertical */
+
+  }
+  
+dsa
+  
+
+
