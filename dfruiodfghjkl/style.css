@@ -1,0 +1,85 @@
+body {
+    background-image: url(https://images3.alphacoders.com/998/998187.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: red;
+}
+
+#menu {
+    width: 100%;
+    background-color: rgb(174, 0, 255);
+    height: 50px;
+}
+nav{
+    background-size: cover;
+    background: rgb(244,152,238);
+background: linear-gradient(87deg, rgba(244,152,238,1) 0%, rgba(184,48,217,1) 21%, rgba(54,24,124,1) 61%, rgba(26,1,33,1) 100%);
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: right;
+}
+
+nav li {
+    margin-right: 3rem;
+    display: inline-block;
+
+}
+
+nav a {
+    display: block;
+    padding: 1rem;
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: rgb(97, 7, 180);
+    color: black;
+}
+
+.sobre img {
+    float: right;
+    margin-right: 450px;
+    width: 490;
+    height: 370;
+    margin-top: 50px;
+}
+.sobre .texto{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 420px;
+    height: 400px;
+    width: 25%;
+    font-size: 22px;
+}
+p{
+    color: white;
+}
+.obg .t2{
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 420px;
+    height: 400px;
+    width: 25%;
+    font-size: 22px;
+    float: right;
+}
+.obg img{
+    margin-top: 150px;
+    float: left;
+    margin-left: 450px;
+}
+.ph{
+    margin-left: 20px;
+    margin-top: 5px;
+}
