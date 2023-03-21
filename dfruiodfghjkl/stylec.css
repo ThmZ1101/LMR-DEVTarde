@@ -50,33 +50,71 @@ nav a:hover {
     margin-left: 20px;
     margin-top: 10px;
 }
+/* Principal */
 
 h1 {
     color: white;
 }
 
 div .d1 {
-    background-color: aliceblue;
-    width: 100%;
-    height: 100%;
+    margin-left: 10%;
+    width: 80%;
     display: flex;
     align-items: center;
-justify-content: center;
-justify-content: center;
+    justify-content: center;
+    justify-content: center;
+    margin-top: 50px;
 
 }
 
 div .d0 {
-    background-color: brown;
     height: 100%;
-    width: 100%;
     display: flex;
     justify-content: center;
 }
-div img{
+
+div img {
     width: 300px;
     height: 300px;
-    margin-left: 10px;
-    margin-right: 10px;
-    
+    margin-left: 130px;
+    margin-right: 130px;
+
+}
+
+div section {
+    width: 300px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.t1 {
+    width: 450px;
+    font-size: 22px;
+    text-align: center;
+}
+
+.t0 {
+    width: 450px;
+    font-size: 22px;
+    text-align: center;
+}
+
+.h1 {
+    color: rgb(255, 255, 255);
+}
+.h2 {
+    color: red;
+}
+
+div .d2 {
+    width: 80%;
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+}
+p{
+    color: white;
 }
