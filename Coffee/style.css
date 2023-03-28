@@ -1,0 +1,80 @@
+body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+#menu {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(174, 0, 255);
+    display: flex;
+    justify-content: space-around
+    
+}
+nav{
+    background-size: cover;
+    background: rgb(189,160,110);
+background: linear-gradient(87deg, rgba(189,160,110,1) 0%, rgba(244,218,170,1) 37%, rgba(172,131,54,1) 65%, rgba(77,62,34,1) 100%);
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: right;
+    display: flex;
+    flex-direction: row-reverse;
+}
+nav h1 {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-right: 50%;
+}
+
+nav li {
+    margin: 0;
+    margin-right: 3rem;
+    display: inline-block;
+
+}
+
+nav a {
+    display: block;
+    padding: 1rem;
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: rgb(0, 0, 0);
+}
+.d2a{
+    background-color: rgb(207, 171, 255);
+    width: 25%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+justify-content: center;
+}
+.d2a h1{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.su{
+    font-size: 40px;
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900
+}
+.d2b{
+    width: 25%;
+    height: 400px;
+}
+.d2b img{
+    width: 100%;
+    height: 400px;
+}
+.d0{
+    display: flex;
+    justify-content: center;
+}
