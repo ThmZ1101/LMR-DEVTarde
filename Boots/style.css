@@ -1,0 +1,12 @@
+.carousel-inner img{
+}
+.card-img-top{
+    height: 30vh;
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+.section{
+    margin-top: 300vh;
+}
