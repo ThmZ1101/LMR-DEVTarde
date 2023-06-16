@@ -2,6 +2,19 @@ img{
     width: 90%;
     height: 30%;
 }
+.loog{
+    width: 5vh;
+    height: 5vh;
+}
+.placeholder{
+    color: aliceblue;
+}
+#navbbbb{
+    background-color: rgb(15, 15, 15);
+}
+#dentro{
+    background-color: rgb(15, 15, 15);
+}
 body{
     background-color: rgb(32, 32, 32);
 }
@@ -11,18 +24,30 @@ body{
 h1{
     color: white;
 }
+.bttv{
+    background-color: red;
+}
 .tx1{
-    
-    background-color: rgb(15, 15, 15);
+    border-top: 3px solid;
+    color: #dc3545;
+    background-image: url(https://i.pinimg.com/originals/a4/53/ae/a453ae44949b72efe226aaeec1c54708.jpg);
     margin-top: 5vh;
 }
+.texx{
+    color: #a32834;
+}
 .tx2{
-    
+    border-top: 3px solid;
+    color: #dc3545;
     background-color: rgb(15, 15, 15);
     margin-top: 5vh;
 }
 .carousel{
     margin-top: 10vh;
+}
+#con1{
+    border-top: 3px solid;
+    color: #dc3545;
 }
 .card{
     background-color: rgb(15, 15, 15);
@@ -33,6 +58,10 @@ h1{
 }
 .tt2{
     margin-top: 5vh;
+}
+#con3{
+    border-top: 3px solid;
+    color: #dc3545;
 }
 p{
     color: white;
@@ -50,11 +79,62 @@ p{
 .text{
     margin-left: 5vh;
     width: 40%;
-    background-color: rgb(15, 15, 15);
+    background-color: #0f0f0f;
 }
 .tr{
     font-size: 10vh;
 }
 .ttt{
-    font-size: 10vh
+    font-size: 7vh
+}
+.card-img-top{
+    margin-top: 4%;
+    margin-left: 0.5vh;
+    width: 29vh;
+    height: 29vh;
+}
+.card-text{
+    color: #a32834;
+    font-size: 3vh;
+}
+.tudo{
+    width: 50%;
+    margin-left: 25%;
+}
+#bott{
+    margin-top: 10vh;
+}
+.tudo{
+    margin-top: 10vh;
+    border-top: 3px solid;
+    color: #dc3545;
+}
+.logot{
+    width: 5vh;
+    height: 5vh;
+}
+footer{
+    margin-top: 20vh;
+    background-color:rgb(15,15,15) ;
+}
+
+.temq{
+    color: white;
+}
+.user{
+    margin-top: 5vh;
+    margin-left: 2vh;
+    margin-bottom: 3vh;
+    width: 30vh;
+    height: 30vh;
+}
+.semit{
+    margin-left: 30vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.aaaa{
+    margin-top: 5vh;
+    margin-left: 13vh;
 }

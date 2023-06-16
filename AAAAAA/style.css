@@ -1,0 +1,14 @@
+body{}
+.AA1{
+    width: 150vh;
+    height: 75vh;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+}
+.pudins{
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+}

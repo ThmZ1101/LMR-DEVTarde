@@ -1,0 +1,51 @@
+
+.loog{
+    width: 5vh;
+    height: 5vh;
+}
+.placeholder{
+    color: aliceblue;
+}
+#navbbbb{
+
+    background-color: rgb(15, 15, 15);
+}
+#dentro{
+    background-color: rgb(15, 15, 15);
+}
+body{
+    background-color: rgb(32, 32, 32);
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+.album py-5 bg-body-tertiary{
+    background-color: rgb(32, 32, 32);
+}
+.sec1{
+    background-color: rgb(32, 32, 32);
+}
+.card-text{
+    color: #dc3545;
+}
+.card{
+    background: rgb(15,15,15);
+}
+.card-title{
+    color: white;
+}
+.logot{
+    width: 5vh;
+    height: 5vh;
+}
+footer{
+    margin-top: 10vh;
+    background-color:rgb(15,15,15) ;
+}
+
+.temq{
+    color: white;
+}
